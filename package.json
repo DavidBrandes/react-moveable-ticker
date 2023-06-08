@@ -33,7 +33,7 @@
     "@babel/preset-env": "^7.22.4",
     "react-scripts": "5.0.1"
   },
-  "description": "A lightweight, fast and speed-adjustable Ticker-Component fro React.",
+  "description": "A lightweight, fast and speed-adjustable Ticker-Component fro React",
   "main": "dist/index.js",
   "repository": {
     "type": "git",

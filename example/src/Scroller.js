@@ -1,6 +1,8 @@
-import React, { useState, useRef, cloneElement, useEffect } from "react";
+import React, { useState, useRef, useEffect } from "react";
 
 import Ticker from "react-moveable-ticker";
+
+import classes from "./Scroller.module.css";
 
 function Scroller(props) {
   const speedBound = 100;
@@ -58,6 +60,7 @@ function Scroller(props) {
 
   return (
     <div
+      className={classes.container}
       onMouseDown={handleScrollStart}
       onMouseUp={handleScrollEnd}
       onMouseMove={handleScrollMouse}
