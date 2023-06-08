@@ -1,0 +1,114 @@
+.App {
+}
+
+.plus {
+  color: #66d9e8;
+}
+
+.baseTickerWrapper {
+  box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.1);
+  background-color: black;
+  color: white;
+  box-shadow: black;
+}
+
+.baseTicker {
+  font-size: 1.8rem;
+  height: 3.2rem;
+
+  white-space: nowrap;
+
+  user-select: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-family: "Abril Fatface", cursive;
+}
+
+.infoTicker {
+  font-size: 2rem;
+  height: 4.8rem;
+  white-space: nowrap;
+
+  user-select: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pokerTickerI {
+  height: 3.2rem;
+  width: 6.4rem;
+
+  font-size: 2.4rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  user-select: none;
+
+  color: #66d9e8;
+
+  animation-name: spin;
+  animation-duration: 4000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.pokerTickerII {
+  height: 3.2rem;
+  width: 6.4rem;
+
+  font-size: 2.4rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  user-select: none;
+
+  color: #66d9e8;
+
+  animation-name: nips;
+  animation-duration: 4000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.philoTicker {
+  font-size: 2.4rem;
+  white-space: nowrap;
+
+  user-select: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.colorTicker {
+  height: 12.8rem;
+  user-select: none;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes nips {
+  from {
+    transform: rotate(360deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
+}
