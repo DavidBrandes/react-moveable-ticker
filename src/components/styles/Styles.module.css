@@ -1,0 +1,15 @@
+.ticker {
+  width: 100%;
+  height: var(--height);
+
+  position: relative;
+  overflow: hidden;
+}
+
+.tickerElement {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+
+  overflow: hidden;
+}
