@@ -1,6 +1,6 @@
 {
   "name": "react-moveable-ticker",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "private": false,
   "dependencies": {
     "react": "^18.2.0"
@@ -33,11 +33,11 @@
     "@babel/preset-env": "^7.22.4",
     "react-scripts": "5.0.1"
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "description": "A lightweight, fast and speed-adjustable Ticker-Component fro React.",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DavidBrandes/ticker.git"
+    "url": "git+https://github.com/DavidBrandes/react-moveable-ticker.git"
   },
   "keywords": [
     "React",
@@ -51,7 +51,7 @@
   "author": "David Brandes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DavidBrandes/ticker/issues"
+    "url": "https://github.com/DavidBrandes/react-moveable-ticker/issues"
   },
   "homepage": "http://DavidBrandes.github.io/react-moveable-ticker",
   "files": [

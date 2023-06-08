@@ -4,7 +4,7 @@ import TickerElement from "./TickerElement";
 import React, { useRef, useEffect, useState, useMemo } from "react";
 
 function Ticker(props) {
-  //position, speed, height, mode, onNext, onDissapear
+  //position, speed, height, mode, loopGap, onNext, onDissapear
 
   const ref = useRef();
   // eslint-disable-next-line

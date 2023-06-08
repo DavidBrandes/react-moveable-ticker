@@ -36,7 +36,7 @@ function PhilosophicalTicker() {
 
 function InfoTicker() {
   const texts = [
-    "Change the speed and direction by clicking and moving the tickers",
+    "Change the speed and direction of the Tickers by moving them with your finger or your mouse",
     "The below elements are procedurally generated",
   ];
 
