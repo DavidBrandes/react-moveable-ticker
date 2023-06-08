@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/react-moveable-ticker/static/css/main.073c9b0a.css",
-    "main.js": "/react-moveable-ticker/static/js/main.6bb93c2d.js",
-    "static/js/787.759e47f1.chunk.js": "/react-moveable-ticker/static/js/787.759e47f1.chunk.js",
-    "static/media/logo.svg": "/react-moveable-ticker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-moveable-ticker/static/css/main.c06dc40f.css",
+    "main.js": "/react-moveable-ticker/static/js/main.8b21a3ad.js",
     "index.html": "/react-moveable-ticker/index.html",
-    "main.073c9b0a.css.map": "/react-moveable-ticker/static/css/main.073c9b0a.css.map",
-    "main.6bb93c2d.js.map": "/react-moveable-ticker/static/js/main.6bb93c2d.js.map",
-    "787.759e47f1.chunk.js.map": "/react-moveable-ticker/static/js/787.759e47f1.chunk.js.map"
+    "main.c06dc40f.css.map": "/react-moveable-ticker/static/css/main.c06dc40f.css.map",
+    "main.8b21a3ad.js.map": "/react-moveable-ticker/static/js/main.8b21a3ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6bb93c2d.js"
+    "static/css/main.c06dc40f.css",
+    "static/js/main.8b21a3ad.js"
   ]
 }
