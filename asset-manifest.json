@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-moveable-ticker/static/css/main.b46f89ff.css",
-    "main.js": "/react-moveable-ticker/static/js/main.aa1f2712.js",
+    "main.css": "/react-moveable-ticker/static/css/main.ab5da377.css",
+    "main.js": "/react-moveable-ticker/static/js/main.44ebb658.js",
     "index.html": "/react-moveable-ticker/index.html",
-    "main.b46f89ff.css.map": "/react-moveable-ticker/static/css/main.b46f89ff.css.map",
-    "main.aa1f2712.js.map": "/react-moveable-ticker/static/js/main.aa1f2712.js.map"
+    "main.ab5da377.css.map": "/react-moveable-ticker/static/css/main.ab5da377.css.map",
+    "main.44ebb658.js.map": "/react-moveable-ticker/static/js/main.44ebb658.js.map"
   },
   "entrypoints": [
-    "static/css/main.b46f89ff.css",
-    "static/js/main.aa1f2712.js"
+    "static/css/main.ab5da377.css",
+    "static/js/main.44ebb658.js"
   ]
 }
